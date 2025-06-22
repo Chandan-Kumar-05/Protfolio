@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# Ignore build files
+build/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore IDE settings
+.idea/
